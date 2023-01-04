@@ -1,0 +1,232 @@
+[
+    {
+        "id":1,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Osman_Gazi2.jpg/100px-Osman_Gazi2.jpg",
+        "title":"Osman gazi"
+    },
+    {
+        "id":2,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orhan_Gazi.jpg/100px-Orhan_Gazi.jpg",
+        "title":"orhan gazi"
+    },
+    {
+        "id":3,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Murat_H%C3%BCdavendigar.jpg/100px-Murat_H%C3%BCdavendigar.jpg",
+        "title":"murat hüdavendigar"
+    },
+    {
+        "id":4,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Y%C4%B1ld%C4%B1r%C4%B1mBayezit4.jpg/100px-Y%C4%B1ld%C4%B1r%C4%B1mBayezit4.jpg",
+        "title":"yıldırım beyazıd"
+    },
+    {
+        "id":5,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%C3%87elebi_Mehmet.jpg/100px-%C3%87elebi_Mehmet.jpg",
+        "title":"çelebi mehmet"
+    },
+    {
+        "id":6,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/II._Murat.jpg/100px-II._Murat.jpg",
+        "title":"sultan gazi murad"
+    },
+    {
+        "id":7,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gentile_Bellini_003.jpg/100px-Gentile_Bellini_003.jpg",
+        "title":"fatih sultan mehmet"
+    },
+    {
+        "id":8,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sultan_II._Bayezit.JPG/100px-Sultan_II._Bayezit.JPG",
+        "title":"beyazıdı veli"
+    },
+    {
+        "id":9,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Yavuz_Sultan_I._Selim_Han.jpg/100px-Yavuz_Sultan_I._Selim_Han.jpg",
+        "title":"yavuz sultan selim"
+    },
+    {
+        "id":10,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/127px-EmperorSuleiman.jpg",
+        "title":"kanuni sultan süleyman"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id":11,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/100px-II._Selim_Han.jpg",
+        "title":"2. selim"
+    },
+    {
+        "id":12,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/III._Murat_Han.jpg/100px-III._Murat_Han.jpg",
+        "title":"3. murad"
+    },
+    {
+        "id":13,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mehmed_III.jpg/99px-Mehmed_III.jpg",
+        "title":"3. Mehmed"
+    },
+    {
+        "id":14,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sultan_I._Ahmet.jpg/100px-Sultan_I._Ahmet.jpg",
+        "title":"1. Ahmed"
+    },
+    {
+        "id":15,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mustafa_1.jpg/100px-Mustafa_1.jpg",
+        "title":"1. Mustafa"
+    },
+    {
+        "id":16,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Osman_2.jpg/100px-Osman_2.jpg",
+        "title":"2. Osman"
+    },
+    {
+        "id":17,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IV._Murat.jpg/100px-IV._Murat.jpg",
+        "title":"4. Murad"
+    },
+    {
+        "id":18,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ibrahim_I.jpg/100px-Ibrahim_I.jpg",
+        "title":"İbrahim"
+    },
+    {
+        "id":19,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sultan_Mehmed_IV_%282%29.jpg/100px-Sultan_Mehmed_IV_%282%29.jpg",
+        "title":"4. Mehmed"
+    },
+    {
+        "id":20,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/S%C3%BCleyman_II.jpg/100px-S%C3%BCleyman_II.jpg",
+        "title":"2. Süleyman"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id":21,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmet_II.jpg/100px-Ahmet_II.jpg",
+        "title":"2. Ahmed"
+    },
+    {
+        "id":22,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/II._Mustafa.jpg/100px-II._Mustafa.jpg",
+        "title":"2. Mustafa"
+    },
+    {
+        "id":23,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/III._Ahmet.jpg/100px-III._Ahmet.jpg",
+        "title":"3. Ahmed"
+    },
+    {
+        "id":24,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mahmud1.jpg/100px-Mahmud1.jpg",
+        "title":"1. Mahmud"
+    },
+    {
+        "id":25,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/OsmanIII.jpg/100px-OsmanIII.jpg",
+        "title":"3. Osman"
+    },
+    {
+        "id":26,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mustafa3.jpg/100px-Mustafa3.jpg",
+        "title":"3.Mustafa"
+    },
+    {
+        "id":27,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abdulhamid_I.jpg/100px-Abdulhamid_I.jpg",
+        "title":"1. Abdülhamid"
+    },
+    {
+        "id":28,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Joseph_Warnia-Zarzecki_-_Sultan_Selim_III_-_Google_Art_Project.jpg/100px-Joseph_Warnia-Zarzecki_-_Sultan_Selim_III_-_Google_Art_Project.jpg",
+        "title":"3. Selim"
+    },
+    {
+        "id":29,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/IV._Mustafa.jpg/100px-IV._Mustafa.jpg",
+        "title":"4.Mustafa"
+    },
+    {
+        "id":30,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Athanasios_Karantz%28ou%29las_-_Sultan_Mahmud_II_-_Google_Art_Project.jpg/100px-Athanasios_Karantz%28ou%29las_-_Sultan_Mahmud_II_-_Google_Art_Project.jpg",
+        "title":"2.Mahmud"
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "id":31,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sultan_Abd%C3%BClmecid_-_Google_Art_Project.jpg/100px-Sultan_Abd%C3%BClmecid_-_Google_Art_Project.jpg",
+        "title":"Abdulmecid"
+    },
+    {
+        "id":32,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abdulaziz.jpg/100px-Abdulaziz.jpg",
+        "title":"Abdülaziz"
+    },
+    {
+        "id":33,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_of_Murad_V.jpg/99px-Portrait_of_Murad_V.jpg",
+        "title":"5. Murad"
+    },
+    {
+        "id":34,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abdul_Hamid_II_in_Balmoral_Castle_in_1867-colored.jpg/100px-Abdul_Hamid_II_in_Balmoral_Castle_in_1867-colored.jpg",
+        "title":"2.Abdülhamid"
+    },
+    {
+        "id":35,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SultanmehmedV1917.jpg/100px-SultanmehmedV1917.jpg",
+        "title":"5.Mehmed"
+    },
+    {
+        "id":36,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sultan_Mehmed_VI.jpg/100px-Sultan_Mehmed_VI.jpg",
+        "title":"6. Mehmed"
+    }
+]
